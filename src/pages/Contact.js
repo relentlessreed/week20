@@ -1,9 +1,11 @@
 import React from 'react';
+import ContactForm from '../components/form/contactForm';
 
-export default function Blog() {
+export default function Contact() {
   return (
     <div>
-      <p>
+      <ContactForm />
+      {/* <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
         dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
@@ -17,7 +19,7 @@ export default function Blog() {
         in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
         bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
-      </p>
+      </p> */}
     </div>
   );
 }

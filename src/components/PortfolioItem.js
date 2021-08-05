@@ -4,6 +4,7 @@ export default function PortfolioItem(props) {
     return (
         <div>
             <h2 className="test">{props.project.projName}</h2>
+            <img src="./budget-tracker-demo.png" alt="PlaceHolderImg" />
             {/* <h1>{props.projName}</h1>
             <img className="thumbnail" src={.img} alt={data.alt} />
             <a href={data.deployedUrl} target="_blank" rel="noreferrer">Deployed Link</a>

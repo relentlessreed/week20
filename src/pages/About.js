@@ -1,10 +1,10 @@
 import React from 'react';
-// import HeadshotSmall from '../photos/headshotsmall.jpg';
+import headshotSmallImg from '../photos/headshotsmall.jpg';
 
 export default function About() {
   return (
-    <div>
-      {/* <HeadshotSmall /> */}
+    <div className="aboutMeContainer">
+      <img className="profileImage" src={headshotSmallImg} alt="HeadShot" />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi

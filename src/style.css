@@ -154,3 +154,13 @@ a {
   display: flex;
   justify-content: space-around;
 }
+
+aboutMeContainer {
+  display: flex;
+  justify-content: center;
+}
+
+profileImage {
+  display: flex;
+  justify-content: center;
+}

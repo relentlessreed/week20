@@ -1,7 +1,8 @@
 import React from 'react';
-import budgetTrackerPhoto from '../photos/budget-tracker-demo.png'
+// import budgetTrackerPhoto from '../photos/budget-tracker-demo.png'
 import techBlogPhoto from '../photos/techblogprogresssofar.png'
 import PortfolioItem from '../components/PortfolioItem';
+
 
 export default function Portfolio() {
   const projectArr = [
@@ -20,7 +21,7 @@ export default function Portfolio() {
       githubUrl: 'https://github.com/relentlessreed/week11'
     },
     {
-      img: budgetTrackerPhoto,
+      // img: budgetTrackerPhoto,
       alt: "budgetTrackerPhoto",
       projName: 'budgetTracker',
       deployedUrl: 'https://budget-tracker-pwa-ejr.herokuapp.com/',
