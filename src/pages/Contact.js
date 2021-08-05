@@ -3,7 +3,6 @@ import React from 'react';
 export default function Blog() {
   return (
     <div>
-      <h1>Contact Me</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
