@@ -1,8 +1,10 @@
 import React from 'react';
+// import HeadshotSmall from '../photos/headshotsmall.jpg';
 
 export default function About() {
   return (
     <div>
+      {/* <HeadshotSmall /> */}
       <h1>About Me</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
