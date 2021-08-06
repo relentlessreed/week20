@@ -142,6 +142,8 @@ a {
 }
 
 .footer {
+  display: flex;
+  justify-content: space-around;
   margin-top: 1rem;
   padding: 1rem;
   position: fixed;
@@ -155,12 +157,11 @@ a {
   justify-content: space-around;
 }
 
-aboutMeContainer {
+.aboutMeContainer {
   display: flex;
   justify-content: center;
 }
 
-profileImage {
-  display: flex;
-  justify-content: center;
+.card-body {
+  background-color: #180a66;
 }

@@ -21,7 +21,7 @@ export default function Portfolio() {
       githubUrl: 'https://github.com/relentlessreed/week11'
     },
     {
-      // img: budgetTrackerPhoto,
+      img: techBlogPhoto,
       alt: "budgetTrackerPhoto",
       projName: 'budgetTracker',
       deployedUrl: 'https://budget-tracker-pwa-ejr.herokuapp.com/',

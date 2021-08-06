@@ -11,8 +11,9 @@ import Footer from "./components/Footer";
 
 const App = () => {
     return (<BrowserRouter >
-        <Header />
-        <NavBar />
+        <Header>
+            <NavBar />
+        </Header>
         <Switch>
             <Route exact path='/contact' component={Contact} />
             <Route exact path='/resume' component={Resume} />

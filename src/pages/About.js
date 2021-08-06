@@ -3,20 +3,14 @@ import headshotSmallImg from '../photos/headshotsmall.jpg';
 
 export default function About() {
   return (
-    <div className="aboutMeContainer">
-      <img className="profileImage" src={headshotSmallImg} alt="HeadShot" />
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+    <div>
+      <img style={{ display: 'flex', justifyContent: 'center' }} src={headshotSmallImg} alt="HeadShot" />
+      <div class="card">
+        <div class="card-body">
+          I am a 2021 Kansas University full-stack software developer graduate, with experience in front and backend. I have a passion for building applications to help better
+          the world, and a strong drive to always be learning about tech! When I am not coding, I am either cooking/skateboarding/playing music/ or travelling.
+        </div>
+      </div>
     </div>
   );
 }

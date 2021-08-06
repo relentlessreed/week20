@@ -23,7 +23,7 @@ const ContactForm = () => {
     alert(result.status);
   };
   return (
-    <form onSubmit={handleSubmit}>
+    <form style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100vh' }} onSubmit={handleSubmit}>
       <div>
         <label htmlFor="name">Name:</label>
         <input type="text" id="name" required />
