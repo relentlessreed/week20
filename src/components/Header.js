@@ -1,5 +1,4 @@
 import React from 'react'
-import NavBar from './NavBar';
 function Header(props) {
     const headerText = 'Edward Reed Full-Stack Web Developer';
     return (
