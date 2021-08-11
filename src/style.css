@@ -208,3 +208,8 @@ a {
 img {
   max-height: 200px;
 }
+
+#resumeLink {
+  text-align: center;
+  padding: 250px;
+}
