@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/week20/static/css/main.ed80860e.chunk.css",
+    "main.css": "/week20/static/css/main.a8755c62.chunk.css",
     "main.js": "/week20/static/js/main.a8029c7f.chunk.js",
     "main.js.map": "/week20/static/js/main.a8029c7f.chunk.js.map",
     "runtime-main.js": "/week20/static/js/runtime-main.2a46d8ac.js",
@@ -10,7 +10,7 @@
     "static/js/2.6d99fd99.chunk.js.map": "/week20/static/js/2.6d99fd99.chunk.js.map",
     "index.html": "/week20/index.html",
     "static/css/2.4be38407.chunk.css.map": "/week20/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.ed80860e.chunk.css.map": "/week20/static/css/main.ed80860e.chunk.css.map",
+    "static/css/main.a8755c62.chunk.css.map": "/week20/static/css/main.a8755c62.chunk.css.map",
     "static/js/2.6d99fd99.chunk.js.LICENSE.txt": "/week20/static/js/2.6d99fd99.chunk.js.LICENSE.txt",
     "static/media/budget-tracker-demo.af390794.png": "/week20/static/media/budget-tracker-demo.af390794.png",
     "static/media/fitnesstrackerscreenshot.d6238d89.png": "/week20/static/media/fitnesstrackerscreenshot.d6238d89.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.2a46d8ac.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.6d99fd99.chunk.js",
-    "static/css/main.ed80860e.chunk.css",
+    "static/css/main.a8755c62.chunk.css",
     "static/js/main.a8029c7f.chunk.js"
   ]
 }
