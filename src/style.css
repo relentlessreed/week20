@@ -167,6 +167,9 @@ a {
   text-align: center;
 }
 
+#aboutText {
+  margin-bottom: 15px;
+}
 #aboutCard {
   background-color: #180a66;
   width: 100%;
