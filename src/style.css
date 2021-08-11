@@ -110,11 +110,6 @@ html {
   }
 }
 
-.card-body {
-  background-color: #b7e9fc;
-  text-align: center;
-}
-
 .list-group-item {
   background-color: #b7e9fc;
 }
@@ -133,8 +128,8 @@ body {
   width: 10%;
 }
 
-.test {
-  color: green;
+.projectNameText {
+  color: salmon;
 }
 
 a {
@@ -159,9 +154,57 @@ a {
 
 .aboutMeContainer {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
 }
 
 .card-body {
   background-color: #180a66;
+  text-align: center;
+}
+
+#aboutCard {
+  background-color: #180a66;
+  width: 50%;
+  text-align: center;
+}
+
+#contactForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+#contactCardText {
+  width: 45%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card {
+}
+
+#projectsPageText {
+  text-align: center;
+}
+
+#projectPageBox {
+  padding: 120px;
+  align-content: center;
+  align-items: center;
+  /* max-width: 1000px; */
+}
+
+img {
+  max-height: 200px;
 }
