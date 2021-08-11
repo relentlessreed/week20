@@ -60,19 +60,21 @@ export default function Portfolio() {
     }
   ]
   return (
-    <div id="projectPageBox">
+    <div>
       <p id="projectsPageText">
         Here are six different applications I have built, alone and in a group setting with other developers in the Kansas University Full-Stack Web Development Program.
         Please feel free to veiw the depolyed applications as well as the repository links.
       </p>
-      <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
-        {projectArr.map(data => {
-          return (
-            <PortfolioItem project={data} />
-            
-          )
-        }
-        )}
+      <div id="projectPageBox">
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+          {projectArr.map(data => {
+            return (
+              <PortfolioItem project={data} />
+
+            )
+          }
+          )}
+        </div>
       </div>
     </div>
   );
