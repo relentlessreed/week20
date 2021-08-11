@@ -171,7 +171,7 @@ a {
   background-color: #180a66;
   width: 100%;
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
 }
 
 #contactForm {
@@ -197,6 +197,7 @@ a {
 
 #projectsPageText {
   text-align: center;
+  width: 100%;
 }
 
 #projectPageBox {
