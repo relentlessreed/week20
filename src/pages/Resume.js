@@ -5,7 +5,7 @@ export default function Resume() {
     <div class="resumePageBody">
       <div id="resumePageText">
         <h2>List of Proficencies:</h2>
-        <p>HTML5, CSS, JQuery, JavaScript, React, Handlebars.js, Node.js, Mongo.db, MySql, Sequelize, Express.js, JawsDB, Bcrypt, Dotenv, Bootstrap, Figma, Tailwind.css, Git, Github, Gitlab, Heroku, JSON, API's, Cookies, FontAwesome, DayJS, NoSql, RegEx, IndexedDB, Chrome Lighthouse Optimization, PWA's, MongoDB, Mongoose, MongoAtlas, MERN Stack, MVC, GraphQL, Apollo, JSON Web Tokens.</p>
+        <p>AGILE, Apollo, APIs, Bcrypt, Bootstrap, Cookies, CSS, Dotenv, DayJS, Express.js, Figma, FontAwesome, Git, Github, GitLab, GraphQL, Handlebars.js, Heroku, HTML5, IndexedDB, JavaScript, JQuery, JSON, JWT, Lighthouse, Local Storage, Lucid, MaterialUI, Mongo.DB, MongoDB Atlas, Mongoose, MVC, MySql, Netlify, Node.js, NoSql, OAuth, ORM, PWA’s, React, RegEx, Rest APIs, Sequelize, Tailwind.css</p>
         <a href="https://drive.google.com/file/d/1rkI5SJqf7dZ4kHVvZjpA8B05CBgIEd06/view?usp=sharing" target="_blank" rel="noreferrer">Downloadable Copy of my Resume</a>
       </div>
     </div>
